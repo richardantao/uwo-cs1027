@@ -11,6 +11,9 @@ export default () => {
         <Nav role="navigation" vertical>
             <Logo/>   
             <NavItem>
+                <NavLink href="/">Home</NavLink>
+            </NavItem>
+            <NavItem>
                 <NavLink href="/notes">Course Notes</NavLink>
             </NavItem>
             <NavItem>
