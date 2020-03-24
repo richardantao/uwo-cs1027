@@ -1,11 +1,11 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
 
-import Home from "./components/Home";
-import Midterm from "./components/Midterm";
-import Note from "./components/Note";
-import NotFound from "./components/NotFound";
-import Sample from "./components/Sample";
+import Home from "./components/pages/Home";
+import Midterm from "./components/pages/Midterm";
+import Note from "./components/pages/Note";
+import NotFound from "./components/pages/NotFound";
+import Sample from "./components/pages/Sample";
 
 import { } from "./App.module.scss";
 

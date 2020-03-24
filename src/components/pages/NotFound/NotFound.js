@@ -1,7 +1,7 @@
 import React from "react";
 import Helmet from "react-helmet";
 
-import { } from "./Home.module.scss";
+import { } from "./NotFound.module.scss";
 
 export default () => {
     return (
